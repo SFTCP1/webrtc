@@ -4,4 +4,4 @@ SwordFishTheChordedPlayer1 WebRTC from [Axel Isouard](https://github.com/aisouar
 This repository contains SwordFishTheChordedPlayer1's WebRTC Static Binary
 As a part of [Axel Isouard](https://github.com/aisouard)'s [libwebrtc](https://github.com/aisouard/libwebrtc), we share WebRTC for Windows based on version M57.
 
-Download the SFTCP1's WebRTC Binary for 64-bit Windows and other platforms from [Releases](https://github.com/SFTCP1/webrtc/releases) here (Compatible with Visual Studio 2015 or higher for Windows systems [x86 and x64]).
+Download the SFTCP1's WebRTC Binary for Windows and other platforms from [Releases](https://github.com/SFTCP1/webrtc/releases) here (Compatible with Visual Studio 2015 or higher for Windows systems [x86 and x64]).
