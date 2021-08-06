@@ -6,12 +6,10 @@ Do not download WebRTC binary from other users like:
 - Axel Isouard
 - IIMachines 
 
-
-
 This is not recommended for use in your projects. Please download SwordFishTheChordedPlayer1 WebRTC binary instead to use it in your projects.
--------
 
 # webrtc
+
 SwordFishTheChordedPlayer1's WebRTC binary from [Axel Isouard](https://github.com/aisouard)'s [libwebrtc](https://github.com/aisouard/libwebrtc) -- Prebuilt version
 
 This repository contains the SwordFishTheChordedPlayer1's WebRTC Static Binary, recommended to use in your C++ projects.
