@@ -6,8 +6,9 @@ Do not download WebRTC binary from other users like:
 - Axel Isouard
 - IIMachines 
 
-This is not recommended for use in your projects.
-Please download SwordFishTheChordedPlayer1 WebRTC binary instead to use it in your projects.
+
+
+This is not recommended for use in your projects. Please download SwordFishTheChordedPlayer1 WebRTC binary instead to use it in your projects.
 -------
 
 # webrtc
